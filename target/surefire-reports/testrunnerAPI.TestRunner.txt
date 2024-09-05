@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testrunnerAPI.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.853 s -- in testrunnerAPI.TestRunner
